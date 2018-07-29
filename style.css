@@ -14,8 +14,7 @@ body {
 
 
 .jumbotron {
-  background-image: url("assets/gradient.png");
-  background-size: cover;
+  background: linear-gradient(to right, #f07441, #ec49a8);
   color: white;
 }
 
